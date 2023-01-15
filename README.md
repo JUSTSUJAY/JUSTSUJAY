@@ -28,32 +28,21 @@
 	
 </p>
 
-<p align="center">
-<!DOCTYPE html> 
-   <html>    
-      <head>       
-         <title>Text alignment</title>   
-         <title>HTMLFont size</title> 
-      </head>    
-      <body>  
-      <h1  = text-align:center;>    
-         <h1 style="color:white;font-size:20;">*** *** MAKE IT WORK, MAKE IF RIGHT, MAKE IT FAST *** ***</h1>   
-    </body>    
-             
-</html>
-</p>
-<p>
+
+
+<h1>  MAKE IT WORK, MAKE IT RIGHT, MAKE IT FAST;</h1>
+
  
 
 ## 👨🏻‍💻 &nbsp;About Me:
 
-<p>🎓 &nbsp;I'm currently a third year undergraduate studying at <a href = "www.spce.ac.in">SPCE Mumbai</a>.</p>
+<p>🎓 &nbsp;I'm a third year undergraduate student at <a href = "www.spce.ac.in">SPCE Mumbai</a>.</p>
 <p>🔭 &nbsp;I’m currently a part of  <a href="https://instagram.com/_spcerobocon_?igshid=YmMyMTA2M2Y=">SPCE ROBOCON</a>.</p>
-<p>💡 &nbsp;I like to solve algorithmic problems or work on my side project during my free time.</p>
+<p>💡 &nbsp;I like to solve algorithmic problems or work on my side project in the mean time.</p>
 <p>💡 &nbsp;I also like to write on developing technologies and fiction stories during my free time.</p>
-<p>🌱 &nbsp;I'm on track for learning DSA and Machine learning.</p>
-<p>💬 &nbsp;Feel free to reach out to me for work opportunities or working alogside a project.</p>
-<p>🧩 &nbsp;Please have a look at my <a href="https://www.linkedin.com/in/sujay-kapadnis-199261213/">LinkedIN profile</a> for more details about me.</p>
+<p>🌱 &nbsp;I'm on track for learning Data Science and Machine learning.</p>
+<p>💬 &nbsp;Feel free to reach out to me for work opportunities or working alogside a project on LinkedIn.</p>
+<p>🧩 &nbsp;Please have a look at my <a href="https://www.linkedin.com/in/sujay-kapadnis-199261213/">LinkedIn profile</a> for more details about me.</p>
 
 <br />
 
