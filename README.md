@@ -1,97 +1,54 @@
-
-<p align="center">
-	<img src="sujay kapadnis.png">
+<p align = "center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZqdW0xNm1qMm0yanEyd3JleGp4OWcyczc0bW9rc3k0YXhidTdteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xuXzcHMkuwvf2/giphy.gif" alt="animated" />
 </p>
 
-<p align="center">
-	<a href="https://www.linkedin.com/in/sujay-kapadnis-199261213/">
-		<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-	</a>
-  <a href="https://medium.com/@Sujaykapadnis">
-		<img src="https://img.icons8.com/ios-filled/50/FFFFFF/medium-logo.png"/>
-	</a>
-	<a href="mailto:sujaykapadnis.33@gmail.com">
-		<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
-	</a>
-	<a href="https://www.codechef.com/users/ray_1234">
-		<img src="https://img.icons8.com/fluency/48/000000/codechef.png"/>
-	</a>
-    <a href="https://t.me/MJURFRAY">
-		<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>
-	</a>
-    <a href="https://instagram.com/sujay_kapadnis?igshid=YmMyMTA2M2Y=">
-		<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
-	</a>
-  <a href="https://www.kaggle.com/sujaykapadnis">
-		<img src="https://img.icons8.com/ios-filled/44/3498DB/k.png"/> 
-	</a>
+<br>
+
+<div align = "center">
 	
-</p>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sujay-kapadnis/) 
+[<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee" />](https://twitter.com/sujay_kapadnis)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sujaykapadnis)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@Sujaykapadnis) 
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/sujay_kapadnis)
+[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://justsujay.github.io/)
+[![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://justsujay.github.io/feed.xml)
 
 
 
-<h1>  MAKE IT WORK, MAKE IT RIGHT, MAKE IT FAST;</h1>
 
- 
+<hr>
+<h1>👋 Hola! I am Sujay, also go by Jay :)</h1>
+<div>
+	I am currently interning at a Stealth Startup as a Software Developer. I mainly focus on technologies such as Machine Learning, Data Science, and AI. I am well-informed about the recent trends. I am a Kaggle master with a good rank and contribution to the community. I was part of a Robotics Club at my University, where I programmed multiple bots with the help of Arduino or Raspberry Pis. I have an interest in writing so I write a blog named <b>Anything & Everything</b> for anything and everything that matters. You'll find me learning new things and trying them out. <br>I can touch type at 80-90 wpm.<br><br> Reach out at: <i>sujaykapadnis[dot]33[at]gmail[dot]com</i>
+	
+</div>
+<hr>
+<h1>👀 ___Things of my interest___ 👀</h1>
 
-## 👨🏻‍💻 &nbsp;About Me:
-
-<p>🎓 &nbsp;I'm a third year undergraduate student at <a href = "www.spce.ac.in">SPCE Mumbai</a>.</p>
-<p>🔭 &nbsp;I’m currently a part of  <a href="https://instagram.com/_spcerobocon_?igshid=YmMyMTA2M2Y=">SPCE ROBOCON</a>.</p>
-<p>💡 &nbsp;I like to solve algorithmic problems or work on my side project in the mean time.</p>
-<p>💡 &nbsp;I also like to write on developing technologies and fiction stories during my free time.</p>
-<p>🌱 &nbsp;I'm on track for learning Data Science and Machine learning.</p>
-<p>💬 &nbsp;Feel free to reach out to me for work opportunities or working alogside a project on LinkedIn.</p>
-<p>🧩 &nbsp;Please have a look at my <a href="https://www.linkedin.com/in/sujay-kapadnis-199261213/">LinkedIn profile</a> for more details about me.</p>
-
-<br />
-
-## 🛠 &nbsp;Tech Stack:
-
-### 💻 &nbsp;Languages:
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)  
-
-### 💻 &nbsp;ML / DL:
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-### 🚀 &nbsp;Technologies:
+<ul>Self-Driving Cars</ul>
+<ul>Computer Vision</ul>
+<ul>Finance / DeFi</ul>
+<ul>Productivity</ul>
+<ul>Networking</ul>
+<ul>Blockchain</ul>
+<ul>Robotics</ul>
+<ul>Reading</ul>
+<ul>Writing</ul>
 
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-<hr />
+<hr>
 
 
-<br/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justsujay&theme=dark&background=000000)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justsujay&layout=compact&theme=vision-friendly-dark)]()
+
+![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/sujayk_33)
+<img src="https://komarev.com/ghpvc/?username=justsujay&style=flat-square&color=blue" alt=""/>
 
 
 
-</p>
+</div>
 
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/Sujaykapadnis/github-readme-stats"><img alt="Sujay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sujaykapadnis&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Sujaykapadnis/github-readme-stats"><img alt="Sujay's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujaykapadnis&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<a href="https://github.com/Sujaykapadnis/github-readme-activity-graph"><img alt="Sujay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sujaykapadnis&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
-<br/>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
 
