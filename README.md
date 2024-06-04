@@ -48,6 +48,9 @@
 <img src="https://komarev.com/ghpvc/?username=justsujay&style=flat-square&color=blue" alt=""/>
 
 
+![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=TheVoidEmperor&theme=github-dark)
+
+
 
 </div>
 
