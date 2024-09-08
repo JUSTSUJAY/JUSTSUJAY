@@ -39,6 +39,7 @@
 
 <hr>
 
+![Sujay's GitHub stats](https://github-readme-stats.vercel.app/api?username=justsujay&theme=highcontrast&show_icons=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justsujay&theme=dark&background=000000)]()
 
